@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import { View, Text } from 'react-native';
+import { View } from 'react-native';
 import axios from 'axios';
+import ExcerptDetail from './ExcerptDetail';
 
 class ExcerptList extends Component {
   //this will render an empty state with an empty array called albums
@@ -15,7 +16,8 @@ class ExcerptList extends Component {
 
   renderAlbums() {
     return this.state.albums.map(album =>
-       <Text key={album.title}>{album.title}</Text>);
+       <ExcerptDetail key={album.title} excerpt={album} />
+     );
   }
 
   render() {
