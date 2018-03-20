@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/JDoh/albums/node_modules/react-native/ReactCommon/jschelpers/Unicode.cpp \
-  /Users/JDoh/albums/node_modules/react-native/ReactCommon/jschelpers/Unicode.h
+  /Users/JDoh/RNP/auth/node_modules/react-native/ReactCommon/jschelpers/Unicode.cpp \
+  /Users/JDoh/RNP/auth/node_modules/react-native/ReactCommon/jschelpers/Unicode.h

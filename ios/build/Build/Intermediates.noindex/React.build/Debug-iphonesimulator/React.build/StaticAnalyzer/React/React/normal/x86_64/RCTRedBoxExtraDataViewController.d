@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/JDoh/albums/node_modules/react-native/React/Modules/RCTRedBoxExtraDataViewController.m \
-  /Users/JDoh/albums/node_modules/react-native/React/Modules/RCTRedBoxExtraDataViewController.h
+  /Users/JDoh/RNP/auth/node_modules/react-native/React/Modules/RCTRedBoxExtraDataViewController.m \
+  /Users/JDoh/RNP/auth/node_modules/react-native/React/Modules/RCTRedBoxExtraDataViewController.h

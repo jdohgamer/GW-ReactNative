@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/JDoh/albums/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewLocalData.m \
-  /Users/JDoh/albums/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewLocalData.h
+  /Users/JDoh/RNP/auth/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewLocalData.m \
+  /Users/JDoh/RNP/auth/node_modules/react-native/React/Views/SafeAreaView/RCTSafeAreaViewLocalData.h

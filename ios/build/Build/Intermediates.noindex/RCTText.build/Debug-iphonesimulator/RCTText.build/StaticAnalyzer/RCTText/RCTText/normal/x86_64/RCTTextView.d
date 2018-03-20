@@ -1,23 +1,23 @@
 dependencies: \
-  /Users/JDoh/albums/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
-  /Users/JDoh/albums/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
-  /Users/JDoh/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/JDoh/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/JDoh/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/JDoh/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
-  /Users/JDoh/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/JDoh/albums/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/JDoh/albums/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/JDoh/albums/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
-  /Users/JDoh/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/JDoh/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/JDoh/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/JDoh/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/JDoh/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/JDoh/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/JDoh/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/JDoh/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/JDoh/albums/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/JDoh/albums/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
-  /Users/JDoh/albums/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
-  /Users/JDoh/albums/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
+  /Users/JDoh/RNP/auth/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
+  /Users/JDoh/RNP/auth/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
+  /Users/JDoh/RNP/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/JDoh/RNP/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/JDoh/RNP/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/JDoh/RNP/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/JDoh/RNP/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/JDoh/RNP/auth/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/JDoh/RNP/auth/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/JDoh/RNP/auth/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/JDoh/RNP/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/JDoh/RNP/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/JDoh/RNP/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/JDoh/RNP/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/JDoh/RNP/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/JDoh/RNP/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/JDoh/RNP/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/JDoh/RNP/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/JDoh/RNP/auth/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/JDoh/RNP/auth/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/JDoh/RNP/auth/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/JDoh/RNP/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
