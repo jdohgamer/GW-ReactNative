@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/JDoh/RNP/auth/node_modules/react-native/React/Base/RCTMultipartDataTask.m \
-  /Users/JDoh/RNP/auth/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
-  /Users/JDoh/RNP/auth/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
+  /Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/node_modules/react-native/React/Base/RCTMultipartDataTask.m \
+  /Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/node_modules/react-native/React/Base/RCTMultipartStreamReader.h

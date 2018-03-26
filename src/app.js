@@ -1,57 +1,34 @@
 import React, { Component } from 'react';
-import { View } from 'react-native';
+import { Provider } from 'react-redux';
+import { createStore, applyMiddleware } from 'redux';
 import firebase from 'firebase';
-import { Header, Button, Spinner, CardSection } from './components/common';
-import LoginForm from './components/LoginForm';
-
+import ReduxThunk from 'redux-thunk';
+import { } from './components/common';
+import Router from './Router';
+import reducers from './reducers';
 
 class App extends Component {
-  state = { loggedIn: null };
-
   componentWillMount() {
-    firebase.initializeApp({
-      apiKey: 'AIzaSyCZVjEvYnTgM2G-OKinbb9C4YyId_WZ68E',
-      authDomain: 'auth-b95d1.firebaseapp.com',
-      databaseURL: 'https://auth-b95d1.firebaseio.com',
-      projectId: 'auth-b95d1',
-      storageBucket: 'auth-b95d1.appspot.com',
-      messagingSenderId: '403811536077'
-    });
-
-    firebase.auth().onAuthStateChanged((user) => {
-      if (user) {
-        this.setState({ loggedIn: true });
-      } else {
-        this.setState({ loggedIn: false });
-      }
-    });
+    const config = {
+    apiKey: 'AIzaSyDaQLu7h783dLay5p3ojcfhgqPno__G28c',
+    authDomain: 'ghostwriter-627a3.firebaseapp.com',
+    databaseURL: 'https://ghostwriter-627a3.firebaseio.com',
+    projectId: 'ghostwriter-627a3',
+    storageBucket: 'ghostwriter-627a3.appspot.com',
+    messagingSenderId: '732681603931'
+  };
+  firebase.initializeApp(config);
   }
-
-  renderContent() {
-    switch (this.state.loggedIn) {
-      case true:
-        return (
-        <CardSection>
-          <Button onPress={() => firebase.auth().signOut()}>
-            Log Out
-          </Button>
-        </CardSection>
-      );
-      case false:
-        return <LoginForm />;
-      default:
-        return <CardSection><Spinner size="large" /></CardSection>;
-      }
-    }
 
   render() {
+    const store = createStore(reducers, {}, applyMiddleware(ReduxThunk));
     return (
-      <View>
-        <Header headerText="Ghost Writer" />
-          {this.renderContent()}
-      </View>
+      <Provider store={store}>
+        <Router />
+      </Provider>
     );
-  }
 }
+}
+
 
 export default App;

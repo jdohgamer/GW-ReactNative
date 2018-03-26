@@ -30,7 +30,8 @@ const Button = ({ onPress, children }) => {
       borderWidth: 1,
       borderColor: '#726255',
       marginLeft: 5,
-      marginRight: 5
+      marginRight: 5,
+      marginTop: 10
 
     }
   };

@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/JDoh/RNP/auth/node_modules/react-native/React/Views/RCTNavItem.m \
-  /Users/JDoh/RNP/auth/node_modules/react-native/React/Views/RCTNavItem.h \
-  /Users/JDoh/RNP/auth/node_modules/react-native/React/Views/RCTComponent.h
+  /Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/node_modules/react-native/React/Views/RCTNavItem.m \
+  /Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/node_modules/react-native/React/Views/RCTNavItem.h \
+  /Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/node_modules/react-native/React/Views/RCTComponent.h

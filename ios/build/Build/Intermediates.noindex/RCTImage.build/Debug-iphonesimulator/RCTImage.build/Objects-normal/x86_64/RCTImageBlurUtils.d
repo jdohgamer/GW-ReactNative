@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/JDoh/RNP/auth/node_modules/react-native/Libraries/Image/RCTImageBlurUtils.m \
-  /Users/JDoh/RNP/auth/node_modules/react-native/Libraries/Image/RCTImageBlurUtils.h \
-  /Users/JDoh/RNP/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h
+  /Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/node_modules/react-native/Libraries/Image/RCTImageBlurUtils.m \
+  /Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/node_modules/react-native/Libraries/Image/RCTImageBlurUtils.h \
+  /Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h

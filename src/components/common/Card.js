@@ -2,8 +2,13 @@ import React from 'react';
 import { View } from 'react-native';
 
 const Card = (props) => (
-    <View style={styles.containerStyle}>
-    {props.children}</View>
+  //The code below takes an array of two styles.
+  //by default it will use the one on the marginLeft
+  //UNLESS we otherwise pass in a custom style in other parts of our app
+  //use the Card component.
+    <View style={[styles.containerStyle, props.style]}>
+    {props.children}
+    </View>
    );
 
 

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/JDoh/RNP/auth/node_modules/react-native/React/Base/RCTManagedPointer.mm \
-  /Users/JDoh/RNP/auth/node_modules/react-native/React/Base/RCTManagedPointer.h
+  /Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/node_modules/react-native/React/Base/RCTManagedPointer.mm \
+  /Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/node_modules/react-native/React/Base/RCTManagedPointer.h

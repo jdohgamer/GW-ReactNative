@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/JDoh/RNP/auth/node_modules/react-native/React/UIUtils/RCTUIUtils.m \
-  /Users/JDoh/RNP/auth/node_modules/react-native/React/UIUtils/RCTUIUtils.h
+  /Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/node_modules/react-native/React/UIUtils/RCTUIUtils.m \
+  /Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/node_modules/react-native/React/UIUtils/RCTUIUtils.h
