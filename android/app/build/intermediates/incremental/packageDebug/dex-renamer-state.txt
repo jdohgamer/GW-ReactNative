@@ -1,4 +1,4 @@
-#Fri Mar 23 23:08:12 CDT 2018
-base.0=/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Sat Apr 07 15:48:37 CDT 2018
+base.0=/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

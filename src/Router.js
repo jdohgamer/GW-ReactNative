@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { Scene, Router, Actions } from 'react-native-router-flux';
 import LoginForm from './components/LoginForm';
@@ -11,7 +12,7 @@ const RouterComponent = () => {
     <Router>
       <Scene key="root" hideNavBar>
         <Scene key="auth">
-          <Scene key="login" component={LoginForm} title="Ghost Writer v2" initial />
+          <Scene key="login" hideNavBar component={LoginForm} title="Ghost Writer v2" initial />
         </Scene>
 
         <Scene key="main">

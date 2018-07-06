@@ -75,9 +75,9 @@ class ExcerptEdit extends Component {
 }
 
 const mapStateToProps = (state) => {
-  const { name, phone, shift } = state.excerptForm;
+  const { name, excerpt, genre } = state.excerptForm;
 
-  return { name, phone, shift };
+  return { name, excerpt, genre };
 };
 
 export default connect(mapStateToProps, { excerptUpdate, excerptSave, excerptDelete }

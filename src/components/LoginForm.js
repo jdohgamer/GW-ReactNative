@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import { View, Text, ImageBackground } from 'react-native';
 import { connect } from 'react-redux';
-import { emailChanged, passwordChanged, loginUser } from '../actions';
+import { emailChanged, passwordChanged, loginUser, createUser } from '../actions';
 import { Card, CardSection, Input, Button, Spinner } from './common';
 
-const bg = require('../assets/bg2.jpg');
+const bg = require('../assets/bgWinstar.png');
 
 
 class LoginForm extends Component {
@@ -22,14 +22,29 @@ class LoginForm extends Component {
     this.props.loginUser({ email, password });
   }
 
+  onCreateUserButtonPress() {
+    createUser();
+  }
+
   renderButton() {
     if (this.props.loading) {
       return <Spinner size="large" />;
     }
       return (
         <Button onPress={this.onButtonPress.bind(this)}>
-      Log In
+      Enter A World of Winning
       </Button>
+    );
+  }
+
+  renderCreateButton() {
+    if (this.props.loading) {
+      return <Spinner size="large" />;
+    }
+      return (
+        <Button onPress={this.onButtonPress.bind(this)}>
+        Create Passport Account
+        </Button>
     );
   }
 
@@ -54,11 +69,12 @@ class LoginForm extends Component {
           style={{ flex: 1 }}
           source={bg}
         >
+         <Text style={styles.TextStyle} />
             <Card>
               <CardSection>
                 <Input
-                  label="Email"
-                  placeholder="email@gmail.com"
+                  label="Passport #"
+                  placeholder="Y123456789"
                   onChangeText={this.onEmailChange.bind(this)}
                   value={this.props.email}
                 />
@@ -67,8 +83,8 @@ class LoginForm extends Component {
               <CardSection>
               <Input
                 secureTextEntry
-                label="Password"
-                placeholder="password"
+                label="PIN #"
+                placeholder="####"
                 onChangeText={this.onPasswordChange.bind(this)}
                 value={this.props.password}
               />
@@ -77,8 +93,12 @@ class LoginForm extends Component {
               <CardSection>
               {this.renderButton()}
               </CardSection>
+              <CardSection>
+              {this.renderCreateButton()}
+              </CardSection>
+
             </Card>
-          
+
           </ImageBackground>
         </View>
 
@@ -92,6 +112,12 @@ const styles = {
     fontSize: 25,
     alignSelf: 'center',
     color: 'red'
+  },
+  TextStyle: {
+    fontSize: 40,
+    paddingTop: 100,
+    alignSelf: 'center',
+    color: 'white'
   }
 };
 

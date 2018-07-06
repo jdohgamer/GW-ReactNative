@@ -3,84 +3,39 @@
 
     <item
         is-multidex="false"
+        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="112e6935caed6ca1c65d627777c76f0296f62867">
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.54.2_44e32f4952e6c0d7a6e1e9194e47d9889ac4ff80.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/JDoh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_dd3c051149e6083482643582102d9bc0dbf23c62.jar" />
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_dd3c051149e6083482643582102d9bc0dbf23c62.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_0daeca7fd73272ab17a280488d02525974eb8f1f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_9ae7dec769a1958f4aec63969b95360c47cc8625.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="112e6935caed6ca1c65d627777c76f0296f62867">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.54.2_b7a2302d671acd6926078e080002e643d1530599.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/JDoh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_f1fd6426d2535d81d50c703b54d63edd0ce822bd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/JDoh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_8db8cb3c780d1105754ca2d8873a9a6f9387c05b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_7bcaedc7f38902e0deaa19e7034c60f74f4c4f9c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_cf286e8aa8adada2370079bffbbbf54c565e8830.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_614cc66632c527cba4c9dd0d3cecdaab22849a6b.jar" />
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_51f8214ae94477a9a845259f4b60e1e84058338a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_1b7346c2a48500fd58ff6145e73e4a3b802fa768.jar" />
     </item>
     <item
         is-multidex="false"
@@ -89,7 +44,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_e7c46821f7094aae523808361115a5fd89243b17.jar" />
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_e7c46821f7094aae523808361115a5fd89243b17.jar" />
     </item>
     <item
         is-multidex="false"
@@ -98,25 +53,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_13dfe854614f8619142a7294a341eeff2aa22578.jar" />
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_13dfe854614f8619142a7294a341eeff2aa22578.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.2/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_c409b18b777c9a60385b39346bbc60d921c20bf1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_b3b70e574c94af084ad1311f14d4ffc9c74d177d.jar" />
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_7d723c5afec1966ad599598a330b08ae7288fb0e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -125,16 +71,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_1c9cb3a285cb660e1b50076b9f46b289ee5d0c18.jar" />
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_1c9cb3a285cb660e1b50076b9f46b289ee5d0c18.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/JDoh/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_42c7c5f6384b3b8b2ac90dbcbefcb3ebb36175c4.jar" />
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_537304bc38b0f91127ae2f0b71d85a08090da209.jar" />
     </item>
     <item
         is-multidex="false"
@@ -143,52 +89,106 @@
         optimize="true"
         revision="23.0.1"
         sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_7dcd2a5143c3fbb94dded3f48782d7b1f6651e9a.jar" />
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_7dcd2a5143c3fbb94dded3f48782d7b1f6651e9a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_7eff308da513abaa2fbc006a0fe729aa07566e5d.jar" />
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_3dcdad6bb34c8cd462ace1a86ba1d665cc0f4ba8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_91d0e2790e326648f19f1e66edcfe0cacc48d77b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.2/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_dec3ad7bf7157bad670817c244e97eb309f224b2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_eb6b125e4f3920a008b24c218b08d24ab835d6da.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriter/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_e5d12be42c8a8ddd854c6b391f1f0cd04880f23e.jar" />
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_aae092a0efdc68c109e83b1990579021a464cbc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_a552239baceb376836159f536d5fc893f1a4a880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDoh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_f1fd6426d2535d81d50c703b54d63edd0ce822bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDoh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_8db8cb3c780d1105754ca2d8873a9a6f9387c05b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_cf2be3476fc63e59ecf4355fabfbe560d69ca04f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_af97adbb0ff86f2a11dc9f503a1a12dc87c53497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDoh/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_42c7c5f6384b3b8b2ac90dbcbefcb3ebb36175c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_2a9050c7e2af6233525411071bb195e70b9204d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_76b915ced70d33ea049db60b7f218b9affee1359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/JDoh/Desktop/Dev/ReactNative/GhostWriterV2/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_7ced7ff62256cfc770d8728206c3192c10acb11e.jar" />
     </item>
 
 </items>

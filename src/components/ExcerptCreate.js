@@ -8,9 +8,9 @@ import ExcerptForm from './ExcerptForm';
 
 class ExcerptCreate extends Component {
   onButtonPress() {
-    const { name, phone, shift } = this.props;
+    const { name, excerpt, genre } = this.props;
 
-    this.props.excerptCreate({ name, phone, shift });
+    this.props.excerptCreate({ name, excerpt, genre });
   }
   render() {
     return (
@@ -28,9 +28,9 @@ class ExcerptCreate extends Component {
 }
 
 const mapStateToProps = (state) => {
-  const { name, phone, shift } = state.excerptForm;
+  const { name, excerpt, genre } = state.excerptForm;
 
-  return { name, phone, shift };
+  return { name, excerpt, genre };
 };
 
 export default connect(mapStateToProps, { excerptUpdate, excerptCreate })(ExcerptCreate);
